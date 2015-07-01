@@ -1,6 +1,6 @@
 //
-//  dsdaTests.m
-//  dsdaTests
+//  hahhaTests.m
+//  hahhaTests
 //
 //  Created by tarena on 15/7/1.
 //  Copyright (c) 2015年 tarena. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface dsdaTests : XCTestCase
+@interface hahhaTests : XCTestCase
 
 @end
 
-@implementation dsdaTests
+@implementation hahhaTests
 
 - (void)setUp {
     [super setUp];
